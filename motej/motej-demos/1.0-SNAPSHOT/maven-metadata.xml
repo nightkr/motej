@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>motej</groupId>
-  <artifactId>motej-extras</artifactId>
+  <artifactId>motej-demos</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140907.013109</timestamp>
+      <timestamp>20140907.013112</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20140907013109</lastUpdated>
+    <lastUpdated>20140907013112</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20140907.013109-1</value>
-        <updated>20140907013109</updated>
+        <value>1.0-20140907.013112-1</value>
+        <updated>20140907013112</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20140907.013109-1</value>
-        <updated>20140907013109</updated>
+        <value>1.0-20140907.013112-1</value>
+        <updated>20140907013112</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
